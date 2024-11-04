@@ -1,0 +1,52 @@
+.h1{
+    color: red
+}
+.h3{
+    color: rgb(9, 240, 20);
+    font-style: italic;
+    font-weight: bold;
+}
+.li{
+    text-decoration-color: blue;
+}
+.italic{
+    font-style: italic;
+    text-decoration: underline;
+}
+.strike{
+    text-decoration:line-through ;
+}
+.span{
+    background-color: yellow;
+    font-weight: bold;
+}
+.h{
+    color: red;
+}
+.a{
+    color: rgb(190, 90, 32);
+    letter-spacing: 6px;
+}
+.p1{
+    color: brown;
+    font-size: medium;
+}
+.p2{
+    color: brown;
+    font-size: 7%;
+}
+.p3{
+    color: brown;
+    font-style: italic;
+    font-size: 13px;
+   
+}
+.p4{
+    color: brown;
+    background-color: yellow;
+    text-decoration: none;
+}
+.p6{
+    background-color: yellow;
+    font-weight:bold;
+}
